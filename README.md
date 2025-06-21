@@ -40,4 +40,12 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
    <!-- Bash -->
    <img src="https://img.icons8.com/ios-glyphs/60/79589f/console.png" alt="Bash"  width="40" height="40"/>
+   <!-- React -->
+   <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+   <!-- Java -->
+   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+   <!-- Docker -->
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+   <!-- Git Lab -->
+   <img width="48" height="48" src="https://img.icons8.com/color/48/gitlab.png" alt="gitlab"/>
 </p>
