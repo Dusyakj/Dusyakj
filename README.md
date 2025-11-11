@@ -8,14 +8,14 @@
 
 - 🔭 I’m currently study at  **[CU](https://centraluniversity.ru)** 
 - 🌱 I’m learning: **Backend, Frontend, Linux**
-- 😍 I love suluguni, apple juice and 💛js💛
+- 😍 I love suluguni, apple juice and 💛Java💛
 
 
 <h3>✉️ Connect with me :</h3>
 <p>
    <a href="https://t.me/Dusyakj" ><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="Dusyakj" height="40" width="40"/></a>
    <a href="mailto:lev.khrobostov@mail.ru"><img align="center" src="https://img.icons8.com/color/96/circled-envelope.png" alt="Dusyakj" height="40" width="40"/></a>
-   <a href="https://vk.com/bas1st" ><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="Dusyakj" height="40" width="40"/></a> 
+   <!-- <a href="https://vk.com/bas1st" ><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="Dusyakj" height="40" width="40"/></a>  -->
 </p>
 
 <h3>🛠 Languages and Tools :</h3>
